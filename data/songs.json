@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "title": "あなたの愛を求めて",
+        "artist": "AnhGez",
+        "album": "METROID",
+        "duration": "",
+
+        "song": "1.あなたの愛を求めて MP4.mp4",
+        "voice": "1.あなたの愛を求めて Voice MP4.mp4",
+        "guitar": "1.あなたの愛を求めて GUITAR.mp4",
+        "bass": "1.あなたの愛を求めて BASS.mp4",
+        "lyrics": "1.あなたの愛を求めて Lyrics.pdf",
+        "artwork": "Metroid.jpeg",
+        "mmd": "mmd.mp4"
+    },
+
+    {
+        "id": 2,
+        "title": "影の記憶",
+        "artist": "AnhGez",
+        "album": "METROID",
+        "duration": "",
+
+        "song": "2.影の記憶 MP4.mp4",
+        "voice": "2.影の記憶 Voice MP4.mp4",
+        "guitar": "2.影の記憶 GUITAR.mp4",
+        "bass": "2.影の記憶 BASS.mp4",
+        "lyrics": "2.影の記憶 Lyrics.pdf",
+        "artwork": "Meltdown.jpeg",
+        "mmd": "mmd.mp4"
+    },
+
+    {
+        "id": 3,
+        "title": "欲望",
+        "artist": "AnhGez",
+        "album": "METROID",
+        "duration": "",
+
+        "song": "3.欲望 MP4.mp4",
+        "voice": "3.欲望 Voice MP4.mp4",
+        "guitar": "3.欲望 GUITAR.mp4",
+        "bass": "3.欲望 BASS.mp4",
+        "lyrics": "3.欲望 Mp3 Lyrics.pdf",
+        "artwork": "Orangestar.jpg",
+        "mmd": "mmd.mp4"
+    },
+
+    {
+        "id": 4,
+        "title": "逃げたい",
+        "artist": "AnhGez",
+        "album": "METROID",
+        "duration": "",
+
+        "song": "4.逃げたい MP4.mp4",
+        "voice": "4.逃げたい Voice MP4.mp4",
+        "guitar": "4.逃げたい GUITAR.mp4",
+        "bass": "4.逃げたい BASS.mp4",
+        "lyrics": "4.逃げたい Lyrics.pdf",
+        "artwork": "Metroid.jpeg",
+        "mmd": "mmd.mp4"
+    },
+
+    {
+        "id": 5,
+        "title": "その日を摘め",
+        "artist": "AnhGez",
+        "album": "METROID",
+        "duration": "",
+
+        "song": "5.その日を摘め MP4.mp4",
+        "voice": "5.その日を摘め Voice MP4.mp4",
+        "guitar": "5.その日を摘め GUITAR.mp4",
+        "bass": "5.その日を摘め BASS.mp4",
+        "lyrics": "5.その日を摘め Lyrics.pdf",
+        "artwork": "Metroid.jpeg",
+        "mmd": "mmd.mp4"
+    },
+
+    {
+        "id": 6,
+        "title": "時計を止める",
+        "artist": "AnhGez",
+        "album": "METROID",
+        "duration": "",
+
+        "song": "6.時計を止める MP4.mp4",
+        "voice": "",
+        "guitar": "",
+        "bass": "",
+        "lyrics": "",
+        "artwork": "Metroid.jpeg",
+        "mmd": "mmd.mp4"
+    },
+
+    {
+        "id": 7,
+        "title": "私たちの空",
+        "artist": "AnhGez",
+        "album": "METROID",
+        "duration": "",
+
+        "song": "7.私たちの空 MP4.mp4",
+        "voice": "",
+        "guitar": "",
+        "bass": "",
+        "lyrics": "",
+        "artwork": "Metroid.jpeg",
+        "mmd": "mmd.mp4"
+    }
+]
